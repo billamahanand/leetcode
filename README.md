@@ -10,4 +10,5 @@
 | [0620-not-boring-movies](https://github.com/billamahanand/leetcode/tree/master/0620-not-boring-movies) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/billamahanand/leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1693-daily-leads-and-partners](https://github.com/billamahanand/leetcode/tree/master/1693-daily-leads-and-partners) |
+| [1729-find-followers-count](https://github.com/billamahanand/leetcode/tree/master/1729-find-followers-count) |
 <!---LeetCode Topics End-->
