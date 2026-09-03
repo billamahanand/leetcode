@@ -7,4 +7,5 @@
 | [0182-duplicate-emails](https://github.com/billamahanand/leetcode/tree/master/0182-duplicate-emails) |
 | [0596-classes-with-at-least-5-students](https://github.com/billamahanand/leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/billamahanand/leetcode/tree/master/0620-not-boring-movies) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/billamahanand/leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 <!---LeetCode Topics End-->
